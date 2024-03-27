@@ -32,4 +32,4 @@ We hope you enjoy working on the Haptic Bits Lab as much as we enjoyed creating 
 
 Happy building and coding!
 
-– The Team at Already Tomorrow, BORIS DESIGN STUDIO AB
+– The Team at Already Tomorrow
