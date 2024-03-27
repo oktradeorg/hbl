@@ -1,0 +1,18 @@
+# Haptic Bits Lab - Changelog
+
+Here you'll find the changelogs for all versions of the Haptic Bits Lab.
+
+
+## 27 MAR 2024
+
+* Air Bit (hbl_air_240327a)
+- Uploaded the launch version of the software code.
+
+* Heat Bit (hbl_heat_240327b)
+- Uploaded the launch version of the software code.
+
+* Vib Bit (hbl_vib_240327a)
+- Uploaded the launch version of the software code.
+
+* Other
+- Added readme and changelog files (this one!) to the repository.
